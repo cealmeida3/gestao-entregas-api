@@ -1,0 +1,12 @@
+# Visual Studio workspace/project files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Build Results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
